@@ -1,0 +1,177 @@
+[
+  {
+    "id": 1,
+    "cover": "https://example.com/cover-film-1.jpg",
+    "judul": "Petualangan di Ujung Dunia",
+    "deskripsi": "Sekelompok sahabat memulai perjalanan penuh tantangan untuk menemukan dunia misterius yang tersembunyi.",
+    "pemeran_utama": "Rizky Febian"
+  },
+  {
+    "id": 2,
+    "cover": "https://example.com/cover-film-2.jpg",
+    "judul": "Cinta di Musim Hujan",
+    "deskripsi": "Kisah romantis dua insan yang bertemu secara tidak sengaja dan menemukan cinta di tengah hujan.",
+    "pemeran_utama": "Prilly Latuconsina"
+  },
+  {
+    "id": 3,
+    "cover": "https://example.com/cover-film-3.jpg",
+    "judul": "Malam yang Mencekam",
+    "deskripsi": "Sebuah keluarga mengalami kejadian misterius setelah pindah ke rumah tua yang menyimpan rahasia kelam.",
+    "pemeran_utama": "Jefri Nichol"
+  },
+  {
+    "id": 4,
+    "cover": "https://example.com/cover-film-4.jpg",
+    "judul": "Galaksi Terakhir",
+    "deskripsi": "Seorang pilot muda berjuang menyelamatkan umat manusia dari ancaman yang datang dari luar angkasa.",
+    "pemeran_utama": "Iqbaal Ramadhan"
+  },
+  {
+    "id": 5,
+    "cover": "https://example.com/cover-film-5.jpg",
+    "judul": "Langkah Menuju Mimpi",
+    "deskripsi": "Perjalanan seorang pemuda mengejar impiannya menjadi musisi meskipun menghadapi berbagai rintangan.",
+    "pemeran_utama": "Angga Yunanda"
+  },
+  {
+    "id": 6,
+    "cover": "https://example.com/cover-film-6.jpg",
+    "judul": "Bayangan di Balik Kabut",
+    "deskripsi": "Seorang detektif menyelidiki serangkaian kejadian aneh di sebuah desa terpencil yang selalu diselimuti kabut.",
+    "pemeran_utama": "Reza Rahadian"
+  },
+  {
+    "id": 7,
+    "cover": "https://example.com/cover-film-7.jpg",
+    "judul": "Penjaga Waktu",
+    "deskripsi": "Seorang pemuda menemukan jam ajaib yang membuatnya mampu menjelajahi masa lalu dan masa depan.",
+    "pemeran_utama": "Dion Wiyoko"
+  },
+  {
+    "id": 8,
+    "cover": "https://example.com/cover-film-8.jpg",
+    "judul": "Rahasia Pulau Terlarang",
+    "deskripsi": "Sekelompok penjelajah terdampar di sebuah pulau misterius yang menyimpan peninggalan peradaban kuno.",
+    "pemeran_utama": "Abimana Aryasatya"
+  },
+  {
+    "id": 9,
+    "cover": "https://example.com/cover-film-9.jpg",
+    "judul": "Cahaya di Ujung Senja",
+    "deskripsi": "Seorang wanita berusaha membangun kembali hidupnya setelah kehilangan orang yang paling dicintainya.",
+    "pemeran_utama": "Dian Sastrowardoyo"
+  },
+  {
+    "id": 10,
+    "cover": "https://example.com/cover-film-10.jpg",
+    "judul": "Misi Terakhir",
+    "deskripsi": "Seorang agen rahasia menjalankan misi berbahaya untuk menghentikan organisasi yang mengancam keamanan dunia.",
+    "pemeran_utama": "Iko Uwais"
+  },
+  {
+    "id": 11,
+    "cover": "https://example.com/cover-film-11.jpg",
+    "judul": "Hutan Tanpa Nama",
+    "deskripsi": "Empat pendaki tersesat di hutan misterius dan harus menemukan jalan keluar sebelum rahasia hutan mengancam nyawa mereka.",
+    "pemeran_utama": "Vino G. Bastian"
+  },
+  {
+    "id": 12,
+    "cover": "https://example.com/cover-film-12.jpg",
+    "judul": "Surat dari Masa Lalu",
+    "deskripsi": "Sebuah surat lama membawa seorang pria menemukan rahasia keluarga yang telah disembunyikan selama puluhan tahun.",
+    "pemeran_utama": "Chicco Jerikho"
+  },
+  {
+    "id": 13,
+    "cover": "https://example.com/cover-film-13.jpg",
+    "judul": "Kota di Bawah Laut",
+    "deskripsi": "Seorang ilmuwan menemukan kota kuno di dasar laut dan mengungkap teknologi yang dapat mengubah masa depan manusia.",
+    "pemeran_utama": "Nicholas Saputra"
+  },
+  {
+    "id": 14,
+    "cover": "https://example.com/cover-film-14.jpg",
+    "judul": "Satu Hari Bersamamu",
+    "deskripsi": "Dua orang asing menghabiskan satu hari bersama dan menyadari bahwa pertemuan singkat dapat mengubah hidup mereka.",
+    "pemeran_utama": "Maudy Ayunda"
+  },
+  {
+    "id": 15,
+    "cover": "https://example.com/cover-film-15.jpg",
+    "judul": "Serangan Tengah Malam",
+    "deskripsi": "Sekelompok tentara harus mempertahankan sebuah markas terpencil ketika serangan mendadak terjadi di tengah malam.",
+    "pemeran_utama": "Joe Taslim"
+  },
+  {
+    "id": 16,
+    "cover": "https://example.com/cover-film-16.jpg",
+    "judul": "Dunia di Balik Cermin",
+    "deskripsi": "Seorang remaja menemukan dunia paralel di balik cermin kamarnya dan berusaha menyelamatkan kedua dunia dari kehancuran.",
+    "pemeran_utama": "Zara Adhisty"
+  },
+  {
+    "id": 17,
+    "cover": "https://example.com/cover-film-17.jpg",
+    "judul": "Nada Terakhir",
+    "deskripsi": "Seorang pianis muda berjuang mengatasi trauma masa lalu demi tampil dalam kompetisi musik terbesar dalam hidupnya.",
+    "pemeran_utama": "Vanesha Prescilla"
+  },
+  {
+    "id": 18,
+    "cover": "https://example.com/cover-film-18.jpg",
+    "judul": "Misteri Rumah Kosong",
+    "deskripsi": "Tiga bersaudara menyelidiki rumah kosong di lingkungan mereka setelah mendengar suara aneh setiap malam.",
+    "pemeran_utama": "Adhisty Zara"
+  },
+  {
+    "id": 19,
+    "cover": "https://example.com/cover-film-19.jpg",
+    "judul": "Pahlawan Tanpa Nama",
+    "deskripsi": "Seorang pria biasa mempertaruhkan nyawanya untuk melindungi warga kota dari ancaman kelompok kriminal.",
+    "pemeran_utama": "Tora Sudiro"
+  },
+  {
+    "id": 20,
+    "cover": "https://example.com/cover-film-20.jpg",
+    "judul": "Langit Berwarna Biru",
+    "deskripsi": "Seorang anak yang tinggal di desa kecil berusaha mewujudkan impiannya menjadi pilot meskipun menghadapi keterbatasan.",
+    "pemeran_utama": "Mawar Eva de Jongh"
+  },
+  {
+    "id": 21,
+    "cover": "https://example.com/cover-film-21.jpg",
+    "judul": "Kutukan Batu Hitam",
+    "deskripsi": "Para arkeolog menemukan batu kuno yang dipercaya membawa kutukan dan mulai mengalami kejadian mengerikan.",
+    "pemeran_utama": "Tara Basro"
+  },
+  {
+    "id": 22,
+    "cover": "https://example.com/cover-film-22.jpg",
+    "judul": "Operasi Fajar",
+    "deskripsi": "Tim khusus menjalankan operasi rahasia untuk membebaskan para sandera sebelum matahari terbit.",
+    "pemeran_utama": "Yayan Ruhian"
+  },
+  {
+    "id": 23,
+    "cover": "https://example.com/cover-film-23.jpg",
+    "judul": "Kembali ke Rumah",
+    "deskripsi": "Setelah bertahun-tahun merantau, seorang pria kembali ke kampung halamannya untuk memperbaiki hubungan dengan keluarganya.",
+    "pemeran_utama": "Fedi Nuril"
+  },
+  {
+    "id": 24,
+    "cover": "https://example.com/cover-film-24.jpg",
+    "judul": "Robot Terakhir",
+    "deskripsi": "Di dunia masa depan yang ditinggalkan manusia, sebuah robot kecil mencari makna kehidupan dan harapan baru.",
+    "pemeran_utama": "Bryan Domani"
+  },
+  {
+    "id": 25,
+    "cover": "https://example.com/cover-film-25.jpg",
+    "judul": "Seribu Bintang",
+    "deskripsi": "Seorang astronot muda melakukan perjalanan antargalaksi untuk mencari planet baru bagi umat manusia.",
+    "pemeran_utama": "Dimas Anggara"
+  }
+]
